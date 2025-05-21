@@ -45,6 +45,7 @@ requirements:
 
 test:
   requires:
+    - libglib
     - pkg-config
   imports:
     - gi
